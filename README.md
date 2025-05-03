@@ -1,4 +1,8 @@
+-=(RallyBike_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # Toaplan (Rally Bike) FPGA Implementation
 
 FPGA compatible core of Toaplan Version 1 arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O). Based on OutZone schematics and verified against Rally Bike (TP-012).
